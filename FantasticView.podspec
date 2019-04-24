@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FantasticView"
-  s.version      = "2.0.0"
+  s.version      = "3.0.0"
   s.summary      = "FantasticView Awesome"
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/afiq90/FantasticView.git", :tag => "2.0.0" }
+  s.source       = { :git => "https://github.com/afiq90/FantasticView.git", :tag => "3.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
